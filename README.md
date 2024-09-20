@@ -1,6 +1,6 @@
 # **Projeto de Gestão de Notas**
 
-Este projeto foi desenvolvido no formato de notebook Projeto1.ipynb no Google Colab. Ele realiza a gestão de notas de alunos a partir de um arquivo CSV, calculando a média das notas e gerando um relatório final.
+Este projeto foi desenvolvido no formato de notebook Sistema_Gestao_Notas.ipynb no Google Colab. Ele realiza a gestão de notas de alunos a partir de um arquivo CSV, calculando a média das notas e gerando um relatório final.
 
 ## **Objetivo**
 
